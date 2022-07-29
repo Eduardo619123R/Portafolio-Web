@@ -1,0 +1,19 @@
+#nav-bar-box-drop-menu {
+  transform: translateX(-150%);
+  -webkit-transform: translateX(-150%);
+  -moz-transform: translateX(-150%);
+  -ms-transform: translateX(-150%);
+  -o-transform: translateX(-150%);
+  opacity: 0;
+}
+
+@media (min-width: 640px) {
+  #nav-bar-box-drop-menu {
+    transform: translateX(-150%);
+    -webkit-transform: translateX(-150%);
+    -moz-transform: translateX(-150%);
+    -ms-transform: translateX(-150%);
+    -o-transform: translateX(-150%);
+    opacity: 0;
+  }
+}
